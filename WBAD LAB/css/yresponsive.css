@@ -1,0 +1,12 @@
+@media (max-width: 786px) {
+    
+}
+  /* Mobile Phone */
+@media (max-width: 450px) {
+    html {
+      font-size: 58%;
+    }
+    footer {
+      padding: 1.25rem;
+    }
+}
